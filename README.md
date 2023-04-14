@@ -1,6 +1,6 @@
 ### Introduction 
 <h4>Hi 👋, I'm Tuan</h4>
-<h5>A passionate frontend developer from Vietnam :vietnam:</h5>
+<h5>A passionate web developer from Vietnam :vietnam:</h5>
 
 ![background-image](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
