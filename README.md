@@ -1,17 +1,11 @@
-### Introduction 
-<h4>Hi 👋, I'm Tuan</h4>
-<h5>A passionate web developer from Vietnam :vietnam:</h5>
-
-![background-image](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: Angular, NestJS
+# About Me
+## Introduction 
+#### Hi 👋, I'm Nguyen Anh Tuan. A passionate web developer from Vietnam :vietnam:
+- 🔭 I’m currently working in Vietnam
+- 🌱 I’m currently learning about knowledge of frontend and algorithm 
+- 👯 I’m looking to collaborate on Upwork
+- 💬 Ask me about: Angular
 - 📫 How to reach me: tuanna184.dev@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!--
 **NAT1804/NAT1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,12 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Skills
+## Skills
 - Programming Languages
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Soidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
 - Frontend Development
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -67,7 +60,6 @@ Here are some ideas to get you started:
 - Software
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 - Static Site Generators
 ![Next.JS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
