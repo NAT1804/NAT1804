@@ -3,7 +3,7 @@
 #### Hi 👋, I'm Nguyen Anh Tuan. A passionate web developer from Vietnam :vietnam:
 - 🔭 I’m currently working in Vietnam
 - 🌱 I’m currently learning about knowledge of frontend and algorithm 
-- 👯 I’m looking to collaborate on Upwork
+- 👯 Detailed information about me https://tuanna184-portfolio.vercel.app/
 - 💬 Ask me about: Angular
 - 📫 How to reach me: tuanna184.dev@gmail.com
 
